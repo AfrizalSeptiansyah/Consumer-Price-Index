@@ -19,3 +19,9 @@ conda install -c conda-forge fbprophet
 * Run program sequentially
 
 # Result 
+
+## Forecasting Visualization  
+![Forecasting Visualization](https://github.com/AfrizalSeptiansyah/Forecasting-Consumer-Price-Index/blob/main/asset/result_prophet.png?raw=true)
+
+## Forecasting Result 
+![Forecasting Result](https://github.com/AfrizalSeptiansyah/Forecasting-Consumer-Price-Index/blob/main/asset/result_forecast.PNG?raw=true)

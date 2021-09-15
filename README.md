@@ -8,8 +8,8 @@ In this project I forecast the consumer price index. Data held from 2001-08-01 t
 
 ## Getting Started
 
-### Installing
-
+### Installing Package 
+* Miniconda
 ```
 conda install -c conda-forge fbprophet
 ```

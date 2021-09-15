@@ -10,8 +10,7 @@ In this project I forecast the consumer price index. Data held from 2001-08-01 t
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Miniconda
 
 ### Installing
 

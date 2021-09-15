@@ -25,3 +25,6 @@ conda install -c conda-forge fbprophet
 
 ## Forecasting Result 
 ![Forecasting Result](https://github.com/AfrizalSeptiansyah/Forecasting-Consumer-Price-Index/blob/main/asset/result_forecast.PNG?raw=true)
+
+# Conclusion 
+fbprophet model managed to follow the downtrend pattern on the dataset even though it seemed to fail at first.

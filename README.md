@@ -28,3 +28,5 @@ conda install -c conda-forge fbprophet
 
 # Conclusion 
 fbprophet model managed to follow the downtrend pattern on the dataset even though it seemed to fail at first.
+
+Thank you for reading :)
